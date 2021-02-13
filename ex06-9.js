@@ -3,5 +3,5 @@ function txtchange1() {
 }
 
 function imagchange1(){
-    document.getElementById('logo').src = './image/man-u.png';
+    document.getElementById('logo').src = './image/じょうさいろご.png';
 }
